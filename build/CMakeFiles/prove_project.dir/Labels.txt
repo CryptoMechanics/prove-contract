@@ -1,0 +1,14 @@
+# Target labels
+ prove_project
+# Source files and their labels
+/contracts/prove/build/CMakeFiles/prove_project
+/contracts/prove/build/CMakeFiles/prove_project.rule
+/contracts/prove/build/CMakeFiles/prove_project-complete.rule
+/contracts/prove/build/prove_project-prefix/src/prove_project-stamp/prove_project-install.rule
+/contracts/prove/build/prove_project-prefix/src/prove_project-stamp/prove_project-mkdir.rule
+/contracts/prove/build/prove_project-prefix/src/prove_project-stamp/prove_project-download.rule
+/contracts/prove/build/prove_project-prefix/src/prove_project-stamp/prove_project-update.rule
+/contracts/prove/build/prove_project-prefix/src/prove_project-stamp/prove_project-patch.rule
+/contracts/prove/build/prove_project-prefix/src/prove_project-stamp/prove_project-configure.rule
+/contracts/prove/build/prove_project-prefix/src/prove_project-stamp/prove_project-build.rule
+/contracts/prove/build/prove_project-prefix/src/prove_project-stamp/prove_project-test.rule

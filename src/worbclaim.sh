@@ -1,0 +1,1 @@
+cleos -u https://uxnetd.goldenplatform.com push action ednaprove worbclaim '{"worbli_account":"testuser1234", "ux_account":"testuser1234", "sig":"SIG_K1_KjPT6vgTiFMeriezPArAE6UQXMuigx6RmmzBTBnLGZGxMWmPAqTQ6oyGkUzeHDvNm5jVrxsz1MuaCRQYqFc49i9vr7E2Zs" }' -p ednaprove

@@ -1,0 +1,1 @@
+cleos -u https://uxnetd.goldenplatform.com push action ednaprove loadclaim '{"worbli_account":"testuser1234", "edna_amount":"1000.0000 EDNA", "pubkey":"EOS6jx5kMeRasajrZN5PsuE6MXQRyWpDTeE7maZ65Kahw8NAMeyn7" }' -p ednaprove

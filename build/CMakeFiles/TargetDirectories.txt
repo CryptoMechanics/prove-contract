@@ -1,0 +1,3 @@
+/contracts/prove/build/CMakeFiles/rebuild_cache.dir
+/contracts/prove/build/CMakeFiles/prove_project.dir
+/contracts/prove/build/CMakeFiles/edit_cache.dir

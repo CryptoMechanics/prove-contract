@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/contracts/prove/build/CMakeFiles/prove_project"
+		},
+		{
+			"file" : "/contracts/prove/build/CMakeFiles/prove_project.rule"
+		},
+		{
+			"file" : "/contracts/prove/build/CMakeFiles/prove_project-complete.rule"
+		},
+		{
+			"file" : "/contracts/prove/build/prove_project-prefix/src/prove_project-stamp/prove_project-install.rule"
+		},
+		{
+			"file" : "/contracts/prove/build/prove_project-prefix/src/prove_project-stamp/prove_project-mkdir.rule"
+		},
+		{
+			"file" : "/contracts/prove/build/prove_project-prefix/src/prove_project-stamp/prove_project-download.rule"
+		},
+		{
+			"file" : "/contracts/prove/build/prove_project-prefix/src/prove_project-stamp/prove_project-update.rule"
+		},
+		{
+			"file" : "/contracts/prove/build/prove_project-prefix/src/prove_project-stamp/prove_project-patch.rule"
+		},
+		{
+			"file" : "/contracts/prove/build/prove_project-prefix/src/prove_project-stamp/prove_project-configure.rule"
+		},
+		{
+			"file" : "/contracts/prove/build/prove_project-prefix/src/prove_project-stamp/prove_project-build.rule"
+		},
+		{
+			"file" : "/contracts/prove/build/prove_project-prefix/src/prove_project-stamp/prove_project-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"prove_project"
+		],
+		"name" : "prove_project"
+	}
+}
